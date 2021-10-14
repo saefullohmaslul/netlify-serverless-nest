@@ -4,7 +4,7 @@ import { ExpressAdapter } from '@nestjs/platform-express';
 import * as express from 'express';
 import * as serverless from 'serverless-http';
 import * as helmet from 'helmet';
-import { AppModule } from './app.module';
+import { AppModule } from './module';
 
 const bootstrap = async (module: any) => {
   const app = express();
