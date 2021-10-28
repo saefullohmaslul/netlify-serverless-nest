@@ -30,5 +30,6 @@
   "eslint.workingDirectories": [
     "./src/*"
   ],
-  "conventionalCommits.scopes": []
+  "conventionalCommits.scopes": [],
+  "jest.jestCommandLine": "jest"
 }
