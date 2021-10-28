@@ -10,4 +10,9 @@ export class RandomsController {
   randomString(): Response {
     return this.randomsService.randomString();
   }
+
+  @Get('uuid')
+  randomUUID(): Response {
+    return this.randomsService.randomUUID();
+  }
 }
