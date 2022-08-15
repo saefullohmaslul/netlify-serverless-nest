@@ -4,7 +4,7 @@
 
 <h1 align="center">Serverless Netlify with Nestjs Framework</h1>
 
-## Requirements
+## Requirementsss
 
 - [Netlify CLI](https://docs.netlify.com/cli/get-started/)
 - [Nodejs](https://nodejs.org/en/)
